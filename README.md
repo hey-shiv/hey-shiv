@@ -15,7 +15,7 @@
 
 [![Website](https://img.shields.io/badge/Lab-hey--shiv.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://hey-shiv.github.io)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-hey--shiv-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/hey-shiv)
-[![X](https://img.shields.io/badge/X-@TensorTunesAI-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/NaadhLabs)
+[![X](https://img.shields.io/badge/X-@NaadhLabs-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/NaadhLabs)
 [![Medium](https://img.shields.io/badge/Writing-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@shivashant.personal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shivashant-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivashant)
 
@@ -109,9 +109,8 @@ Honest failure analysis  >  cherry-picked results
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hey-shiv&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hey-shiv&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
+[![Repos](https://img.shields.io/badge/Repositories-10-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hey-shiv?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Contributions_2026-100%2B-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hey-shiv)
 
 </div>
 
