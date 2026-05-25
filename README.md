@@ -1,49 +1,135 @@
-# Shivashant Manohar
+<div align="center">
 
-> AI systems · post-training · evals · alignment · observability
+```
+██████████████████████████████████████████████
+█                                            █
+█   S H I V A S H A N T   M A N O H A R    █
+█   Verifier-Guided AI Systems              █
+█                                            █
+██████████████████████████████████████████████
+```
 
-I build verifier-guided AI systems focused on reliability, evaluation infrastructure, and post-training workflows. Evaluation here is a design constraint that shapes training data, reward signals, failure analysis, and deployment behavior — not a reporting layer after the fact.
+### Building reliable AI through verifier-guided evaluation and alignment.
 
-Currently exploring research engineering and AI systems opportunities.
+`AI Systems` · `Post-Training` · `Evals` · `Alignment` · `Observability`
 
----
+[![Website](https://img.shields.io/badge/Lab-hey--shiv.github.io-000000?style=flat-square&logo=github&logoColor=white)](https://hey-shiv.github.io)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-hey--shiv-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/hey-shiv)
+[![X](https://img.shields.io/badge/X-@TensorTunesAI-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/NaadhLabs)
+[![Medium](https://img.shields.io/badge/Writing-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@shivashant.personal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shivashant-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivashant)
 
-## Current labs
-
-| Lab | Domain | Focus |
-|-----|--------|-------|
-| [AgentAlign Lab](https://hey-shiv.github.io/projects/agentalign-lab/) | Terminal agents | Verifier-guided preference learning · DPO/LoRA · held-out evals |
-| [SvaraAlign Lab](https://hey-shiv.github.io/projects/svaraalign-lab/) | Generative music | Raga-faithful alignment · SvaraJudge · SvaraReward · cultural eval |
-
----
-
-## Stack
-
-`Python` `PyTorch` `Transformers` `DPO / LoRA` `RoPE · GQA · RMSNorm`  
-`BPE tokenization` `Federated learning` `Reward modeling` `Evaluation infra` `Observability`
-
----
-
-## Writing
-
-- [Day 1 — Core execution pipeline for verifier-guided terminal agents](https://hey-shiv.github.io/blogs/AgentAlign%20Lab/day-1-core-execution-pipeline.html) · May 23, 2026
-- Upcoming: trace schemas, reward leakage, raga verifier drift
+</div>
 
 ---
 
-## Philosophy
+## ⬡ Active Labs
 
-> Evaluation integrity matters more than benchmark theater.  
-> Reproducibility matters more than a flashy demo.  
-> Verifier quality sets the ceiling for alignment quality.  
-> Observable systems scale better than black-box pipelines.
+### [AgentAlign Lab](https://hey-shiv.github.io/projects/agentalign-lab/) — Terminal-Agent Evals + DPO
+
+> Verifier-guided preference learning pipeline for reliable terminal agents.
+
+```
+Task Suite ──▶ Trajectories ──▶ Preference Pairs ──▶ DPO/LoRA ──▶ Held-out Eval
+  schemas       actions +          chosen /           fine-tune     blind
+  + verifiers   evidence           rejected                         comparison
+```
+
+**MVP target:** 60+ verified tasks · 300+ trajectories · DPO/LoRA tuning · eval dashboard  
+**Keywords:** `task suite` `trajectory logs` `verifier-ranked pairs` `DPO` `LoRA` `held-out evals`
 
 ---
 
-## Find me
+### [SvaraAlign Lab](https://hey-shiv.github.io/projects/svaraalign-lab/) — Raga Verification + Reward Models
 
-[Website](https://hey-shiv.github.io) · [GitHub](https://github.com/hey-shiv) · [LinkedIn](https://linkedin.com/in/shivashant) · [Medium](https://medium.com/@shivashant.personal) · [X](https://x.com/NaadhLabs) · [Email](mailto:shivashant.work@gmail.com)
+> Verifier-guided alignment for raga-faithful AI music generation.
+
+```
+Raga Task ──▶ SvaraJudge ──▶ SvaraPrefs ──▶ SvaraReward ──▶ Rerank + Eval
+ prompt +      JSON            expert          reward          held-out
+ tonic         evidence        pairs           model           loop
+```
+
+**First loop:** SvaraJudge · SvaraTrace · SvaraPrefs · SvaraReward · one-raga evaluation  
+**Keywords:** `symbolic verification` `expert preference learning` `reward modeling` `raga alignment`
 
 ---
 
-<sub>Bengaluru, India</sub>
+## ◈ Engineering Philosophy
+
+```
+Evaluation integrity  >  benchmark theater
+Reproducibility       >  flashy demos
+Verifier quality      =  ceiling for alignment quality
+Observable systems    >  black-box pipelines
+Honest failure analysis  >  cherry-picked results
+```
+
+---
+
+## ⬡ Systems Focus
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**AI Infrastructure**
+- Verifier-guided systems
+- Preference learning & DPO pipelines
+- Evaluation & observability
+- Reward modeling & structured traces
+- Post-training systems
+
+</td>
+<td valign="top" width="50%">
+
+**Research Interests**
+- AI reliability engineering
+- Culturally grounded generative AI
+- Human feedback systems
+- Raga-faithful music alignment
+- Failure analysis & postmortems
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Previous Work
+
+| Project | Description |
+|---|---|
+| **Mini Modern LLM** | Decoder-only transformer from scratch — byte-level BPE, memmap, RoPE, GQA, RMSNorm, SwiGLU, CLI + Gradio |
+| **Context-Aware Federated IDS** | Privacy-preserving intrusion detection for decentralized smart healthcare using federated learning |
+
+---
+
+## ⬡ GitHub Activity
+
+<div align="center">
+
+[![Repos](https://img.shields.io/badge/Repositories-10-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hey-shiv?tab=repositories)
+[![Contributions](https://img.shields.io/badge/Contributions_2026-100%2B-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hey-shiv)
+
+</div>
+
+---
+
+## ◈ Latest Writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Day 1 — Core Execution Pipeline for Verifier-Guided Terminal Agents](https://hey-shiv.github.io/blogs/AgentAlign%20Lab/day-1-core-execution-pipeline.html) *(May 23, 2026)*
+<!-- BLOG-POST-LIST:END -->
+
+*More posts coming: trace schemas · reward leakage · raga verifier drift*
+
+---
+
+<div align="center">
+
+**Bengaluru, India**  ·  [shivashant.work@gmail.com](mailto:shivashant.work@gmail.com)  ·  [hey-shiv.github.io](https://hey-shiv.github.io)
+
+*Verifier quality sets the ceiling for alignment quality.*
+
+</div>
