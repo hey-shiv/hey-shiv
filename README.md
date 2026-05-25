@@ -1,167 +1,184 @@
-<div align="center">
-<br>
-
-<sub><kbd>Public AI systems lab</kbd> &nbsp; <kbd>Verifier-guided</kbd> &nbsp; <kbd>Post-training</kbd></sub>
-
-<br><br>
-
-# Shivashant Manohar
-
-### Building reliable AI systems through verifier-guided evaluation and alignment.
-
-<sup>AI Systems · Post-Training · Evals · Alignment · Observability</sup>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0c0c0a&height=2&section=header"/>
 
 <br>
 
-<a href="https://hey-shiv.github.io"><kbd>lab ↗</kbd></a> &nbsp;
-<a href="https://github.com/hey-shiv"><kbd>github ↗</kbd></a> &nbsp;
-<a href="https://huggingface.co/hey-shiv"><kbd>huggingface ↗</kbd></a> &nbsp;
-<a href="https://medium.com/@shivashant.personal"><kbd>medium ↗</kbd></a> &nbsp;
-<a href="https://x.com/NaadhLabs"><kbd>x ↗</kbd></a> &nbsp;
-<a href="https://linkedin.com/in/shivashant"><kbd>linkedin ↗</kbd></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="bottom" width="65%">
+<sup>AI SYSTEMS LAB &nbsp;·&nbsp; BENGALURU, INDIA</sup>
 
-<br><br>
+# Shivashant <br> *Manohar*
 
-</div>
+<sub><i>Building reliable AI systems through verifier-guided evaluation and alignment.</i></sub>
+</td>
+<td valign="bottom" align="right" width="35%">
+<sub>
+<a href="https://hey-shiv.github.io">lab ↗</a><br>
+<a href="https://huggingface.co/hey-shiv">huggingface ↗</a><br>
+<a href="https://medium.com/@shivashant.personal">medium ↗</a><br>
+<a href="https://x.com/NaadhLabs">x / @NaadhLabs ↗</a><br>
+<a href="https://linkedin.com/in/shivashant">linkedin ↗</a>
+</sub>
+</td>
+</tr>
+</table>
 
-I build verifier-guided AI systems focused on reliability, evaluation infrastructure, and post-training workflows. Current work centers on AgentAlign Lab and SvaraAlign Lab. Currently exploring research engineering and AI systems opportunities.
+---
+
+**I** build verifier-guided AI systems focused on reliability, evaluation infrastructure, and post-training workflows. The work is deliberately systems-oriented — structured traces, deterministic verifiers, preference data, reward modeling, reranking loops, held-out evaluations, and observability surfaces that make failures inspectable. Currently exploring research engineering and AI systems opportunities.
 
 <br>
 
 ---
 
-<sup>CURRENT WORK / LABS — FLAGSHIP SYSTEMS</sup>
+<sup>01 &nbsp;—&nbsp; FLAGSHIP SYSTEMS</sup>
 
 <br>
 
-**AgentAlign Lab** &nbsp; <sup>`terminal agents`</sup> &nbsp; <sup>`Active / Post-training`</sup>
+<table width="100%" border="0">
+<tr>
+<td valign="top" width="75%">
+
+### AgentAlign Lab
+<sup>Terminal agents &nbsp;·&nbsp; Active / Post-training</sup>
 
 Verifier-guided preference learning pipeline for reliable terminal agents — structured trajectories, deterministic verifiers, DPO preference optimization, held-out evaluations, and failure analysis.
 
 ```
-Task Suite    →    Trajectories    →    Preference Pairs    →    DPO Eval
-schemas + verifiers  actions + evidence    chosen / rejected     held-out comparison
+Task Suite  →  Trajectories  →  Preference Pairs  →  DPO Eval
+schemas + verifiers · actions + evidence · chosen/rejected · held-out
 ```
 
 <sub>`task suite` `trajectory logs` `verifier-ranked pairs` `DPO/LoRA` `held-out evals`</sub>
 
-<sub>Systems focus: AI reliability · agent tooling · post-training infrastructure · evaluation integrity</sub>
-
-→ [Project detail](https://hey-shiv.github.io/projects/agentalign-lab/) &nbsp; · &nbsp; [Research posts](https://hey-shiv.github.io/blogs/AgentAlign%20Lab/)
-
+</td>
+<td valign="top" align="right" width="25%">
 <br>
+<sub>● Active</sub><br><br>
+<sub><a href="https://hey-shiv.github.io/projects/agentalign-lab/">Project detail ↗</a></sub><br>
+<sub><a href="https://hey-shiv.github.io/blogs/AgentAlign%20Lab/">Research posts ↗</a></sub>
+</td>
+</tr>
+</table>
 
-**SvaraAlign Lab** &nbsp; <sup>`generative music`</sup> &nbsp; <sup>`Active / Alignment`</sup>
+<table width="100%" border="0">
+<tr>
+<td valign="top" width="75%">
+
+### SvaraAlign Lab
+<sup>Generative music &nbsp;·&nbsp; Active / Alignment</sup>
 
 Verifier-guided alignment for raga-faithful AI music generation — symbolic verification, expert preference learning, reward modeling, reranking systems, and culturally grounded evaluation loops.
 
 ```
-Raga Task    →    SvaraJudge    →    SvaraPrefs    →    SvaraReward    →    Rerank + Eval
-prompt + tonic   JSON evidence     expert pairs       reward model         held-out loop
+Raga Task  →  SvaraJudge  →  SvaraPrefs  →  SvaraReward  →  Rerank + Eval
+prompt + tonic · JSON evidence · expert pairs · reward model · held-out
 ```
 
 <sub>`SvaraJudge` `SvaraTrace` `SvaraPrefs` `SvaraReward` `reranking` `held-out evals`</sub>
 
-<sub>Systems focus: alignment infrastructure for generative audio · culturally grounded AI systems</sub>
-
-→ [Project detail](https://hey-shiv.github.io/projects/svaraalign-lab/)
-
+</td>
+<td valign="top" align="right" width="25%">
 <br>
+<sub>● Active</sub><br><br>
+<sub><a href="https://hey-shiv.github.io/projects/svaraalign-lab/">Project detail ↗</a></sub>
+</td>
+</tr>
+</table>
 
 ---
 
-<sup>ABOUT / LAB PREMISE</sup>
-
-## Verifier quality shapes model behavior.
-
-I am interested in AI systems where evaluation is not a reporting layer after the fact, but a design constraint that shapes training data, reward signals, failure analysis, and deployment behavior.
+<sup>02 &nbsp;—&nbsp; FOCUS</sup>
 
 <br>
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
-<sub><b>CURRENT FOCUS</b></sub><br><br>
 
-- Verifier-guided AI systems
-- Preference learning and DPO pipelines
-- Evaluation and observability systems
-- Reward modeling and structured traces
-- AI systems architecture and reliability engineering
-- Raga-faithful generative music alignment
+<sub>INFRASTRUCTURE</sub>
+
+- Verifier-guided systems
+- Preference learning & DPO pipelines
+- Evaluation & observability
+- Reward modeling & structured traces
+- Post-training systems
 
 </td>
 <td valign="top" width="50%">
-<sub><b>SYSTEMS INTERESTS</b></sub><br><br>
+
+<sub>RESEARCH</sub>
 
 - AI reliability engineering
-- Evaluation infrastructure
-- Post-training systems
-- Reward modeling & preference optimization
-- Structured traces and observability
 - Culturally grounded generative AI
+- Raga-faithful music alignment
+- Human feedback systems
+- Failure analysis & postmortems
 
 </td>
 </tr>
 </table>
 
+---
+
+<sup>03 &nbsp;—&nbsp; PHILOSOPHY</sup>
+
+<br>
+
+| | | |
+|:--|:--:|:--|
+| *Evaluation integrity* | › | benchmark theater |
+| *Reproducibility* | › | flashy demos |
+| *Verifier quality* | = | ceiling for alignment quality |
+| *Observable systems* | › | black-box pipelines |
+| *Honest failure analysis* | › | cherry-picked results |
+
+---
+
+<sup>04 &nbsp;—&nbsp; FAILURE NOTES</sup>
+
+<br>
+
+- **Verifier instability** &nbsp;—&nbsp; When the judge changes under identical inputs, training data becomes noisy.
+- **Trajectory schema redesigns** &nbsp;—&nbsp; Missing trace fields make downstream preference comparisons hard to audit.
+- **Reward leakage** &nbsp;—&nbsp; Models can learn the verifier shortcut instead of the intended behavior.
+- **Tonic mismatch** &nbsp;—&nbsp; Raga-faithful generation fails quickly when pitch context is underspecified.
+- **Evaluation integrity** &nbsp;—&nbsp; Held-out tasks and blind checks matter when the system starts optimizing.
+
+---
+
+<sup>05 &nbsp;—&nbsp; WRITING</sup>
+
+<br>
+
+<table width="100%">
+<tr>
+<td><i><a href="https://hey-shiv.github.io/blogs/AgentAlign%20Lab/day-1-core-execution-pipeline.html">Day 1 — Core Execution Pipeline for Verifier-Guided Terminal Agents</a></i></td>
+<td align="right"><sub>May 23, 2026 &nbsp;·&nbsp; AgentAlign Lab</sub></td>
+</tr>
+<tr>
+<td><sub><i>Planned: trace schemas · reward leakage · raga verifier drift</i></sub></td>
+<td align="right"><sub>upcoming</sub></td>
+</tr>
+</table>
+
+---
+
+<sup>06 &nbsp;—&nbsp; PREVIOUS WORK</sup>
+
+<br>
+
+***Mini Modern LLM*** &nbsp;—&nbsp; Decoder-only transformer from scratch. Byte-level BPE tokenization, memmap data loading, RoPE, GQA, RMSNorm, SwiGLU, CLI inference, and a Gradio interface.
+
+***Context-Aware Federated IDS*** &nbsp;—&nbsp; Privacy-preserving intrusion detection for decentralized smart healthcare using federated learning and lightweight aggregation.
+
 <br>
 
 ---
 
-<sup>ENGINEERING PHILOSOPHY</sup>
-
-<br>
-
-| | |
-|---|---|
-| Evaluation integrity | › benchmark theater |
-| Reproducibility | › flashy demos |
-| Verifier quality | = ceiling for alignment quality |
-| Observable systems | › black-box pipelines |
-| Honest failure analysis | › cherry-picked results |
-
-<br>
-
----
-
-<sup>FAILURE ANALYSIS / LAB NOTES — PROBLEMS WORTH MAKING VISIBLE</sup>
-
-<br>
-
-- **Verifier instability** — When the judge changes under identical inputs, training data becomes noisy.
-- **Trajectory schema redesigns** — Missing trace fields make downstream preference comparisons hard to audit.
-- **Reward leakage** — Models can learn the verifier shortcut instead of the intended behavior.
-- **Tonic mismatch** — Raga-faithful generation fails quickly when pitch context is underspecified.
-- **Evaluation integrity** — Held-out tasks and blind checks matter when the system starts optimizing.
-
-<br>
-
----
-
-<sup>WRITING / SYSTEMS ESSAYS — SYSTEMS NOTES WRITTEN CLOSE TO THE WORK</sup>
-
-<br>
-
-- [Day 1 — Core Execution Pipeline for Verifier-Guided Terminal Agents](https://hey-shiv.github.io/blogs/AgentAlign%20Lab/day-1-core-execution-pipeline.html) &nbsp; <sup>May 23, 2026 / AgentAlign Lab</sup>
-- *Planned: trace schemas, reward leakage, and raga verifier drift* &nbsp; <sup>upcoming</sup>
-
-<br>
-
----
-
-<sup>PREVIOUS WORK</sup>
-
-<br>
-
-**Mini Modern LLM** — Decoder-only transformer built from scratch with byte-level BPE tokenization, memmap data loading, RoPE, GQA, RMSNorm, SwiGLU, CLI inference, and a Gradio interface.
-
-**Context-Aware Federated Intrusion Detection** — Privacy-preserving intrusion detection system using federated learning and lightweight aggregation for decentralized smart healthcare networks.
-
-<br>
-
----
-
-<div align="center">
-<sub>Bengaluru, India &nbsp;/&nbsp; shivashant.work@gmail.com</sub>
-</div>
+<table width="100%">
+<tr>
+<td><sub>Bengaluru, India &nbsp;·&nbsp; shivashant.work@gmail.com</sub></td>
+<td align="right"><sub><i>verifier quality sets the ceiling for alignment quality</i></sub></td>
+</tr>
+</table>
