@@ -24,7 +24,7 @@
 
 </div>
 
-I build verifier-guided AI systems focused on reliability, evaluation infrastructure, and post-training workflows. Current work centers on AgentAlign Lab and SvaraAlign Lab. Currently exploring research engineering and AI systems opportunities.
+I build verifier-guided AI systems focused on reliability, evaluation infrastructure, and post-training workflows. Current work centers on AgentAlign Lab. Currently exploring research engineering and AI systems opportunities.
 
 <br>
 
@@ -51,22 +51,6 @@ schemas + verifiers  actions + evidence    chosen / rejected     held-out compar
 
 <br>
 
-**SvaraAlign Lab** &nbsp; <sup>`generative music`</sup> &nbsp; <sup>`Active / Alignment`</sup>
-
-Verifier-guided alignment for raga-faithful AI music generation — symbolic verification, expert preference learning, reward modeling, reranking systems, and culturally grounded evaluation loops.
-
-```
-Raga Task    →    SvaraJudge    →    SvaraPrefs    →    SvaraReward    →    Rerank + Eval
-prompt + tonic   JSON evidence     expert pairs       reward model         held-out loop
-```
-
-<sub>`SvaraJudge` `SvaraTrace` `SvaraPrefs` `SvaraReward` `reranking` `held-out evals`</sub>
-
-<sub>Systems focus: alignment infrastructure for generative audio · culturally grounded AI systems</sub>
-
-→ [Project detail](https://hey-shiv.github.io/projects/svaraalign-lab/)
-
-<br>
 
 ---
 
@@ -88,7 +72,6 @@ I am interested in AI systems where evaluation is not a reporting layer after th
 - Evaluation and observability systems
 - Reward modeling and structured traces
 - AI systems architecture and reliability engineering
-- Raga-faithful generative music alignment
 
 </td>
 <td valign="top" width="50%">
@@ -99,7 +82,6 @@ I am interested in AI systems where evaluation is not a reporting layer after th
 - Post-training systems
 - Reward modeling & preference optimization
 - Structured traces and observability
-- Culturally grounded generative AI
 
 </td>
 </tr>
@@ -132,7 +114,6 @@ I am interested in AI systems where evaluation is not a reporting layer after th
 - **Verifier instability** — When the judge changes under identical inputs, training data becomes noisy.
 - **Trajectory schema redesigns** — Missing trace fields make downstream preference comparisons hard to audit.
 - **Reward leakage** — Models can learn the verifier shortcut instead of the intended behavior.
-- **Tonic mismatch** — Raga-faithful generation fails quickly when pitch context is underspecified.
 - **Evaluation integrity** — Held-out tasks and blind checks matter when the system starts optimizing.
 
 <br>
@@ -144,7 +125,7 @@ I am interested in AI systems where evaluation is not a reporting layer after th
 <br>
 
 - [Day 1 — Core Execution Pipeline for Verifier-Guided Terminal Agents](https://hey-shiv.github.io/blogs/AgentAlign%20Lab/day-1-core-execution-pipeline.html) &nbsp; <sup>May 23, 2026 / AgentAlign Lab</sup>
-- *Planned: trace schemas, reward leakage, and raga verifier drift* &nbsp; <sup>upcoming</sup>
+- *Planned: trace schemas and reward leakage* &nbsp; <sup>upcoming</sup>
 
 <br>
 
