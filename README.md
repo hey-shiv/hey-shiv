@@ -17,7 +17,7 @@
 <a href="https://github.com/hey-shiv"><kbd>github ↗</kbd></a> &nbsp;
 <a href="https://huggingface.co/hey-shiv"><kbd>huggingface ↗</kbd></a> &nbsp;
 <a href="https://medium.com/@shivashant.personal"><kbd>medium ↗</kbd></a> &nbsp;
-<a href="https://x.com/NaadhLabs"><kbd>x ↗</kbd></a> &nbsp;
+<a href="https://x.com/hey_shivv"><kbd>x ↗</kbd></a> &nbsp;
 <a href="https://linkedin.com/in/shivashant"><kbd>linkedin ↗</kbd></a>
 
 <br><br>
