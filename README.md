@@ -35,15 +35,7 @@ I build verifier-guided AI systems focused on reliability, evaluation infrastruc
 
 ---
 
-<sup>PREVIOUS WORK</sup>
 
-<br>
-
-**Mini Modern LLM** — Decoder-only transformer built from scratch with byte-level BPE tokenization, memmap data loading, RoPE, GQA, RMSNorm, SwiGLU, CLI inference, and a Gradio interface.
-
-**Context-Aware Federated Intrusion Detection** — Privacy-preserving intrusion detection system using federated learning and lightweight aggregation for decentralized smart healthcare networks.
-
-<br>
 
 ---
 
