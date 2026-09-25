@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 230" width="440" height="230">
+<rect x=".5" y=".5" width="439" height="229" rx="12" fill="#fbf9f3" stroke="#e0dac9"/>
+<rect x="28" y="0" width="36" height="3" fill="#635e4d"/>
+<circle cx="32" cy="36" r="3.5" fill="#635e4d"/>
+<text x="42" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.2" fill="#4b4839">LIVE · NEGATIVE RESULT</text>
+<text x="28" y="80" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="-.5" fill="#17160f">Coil</text>
+<text x="28" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" fill="#4b4839"><tspan x="28" dy="0">Does a famous chart pattern beat buying on a</tspan><tspan x="28" dy="20">random day?</tspan></text>
+<line x1="28" x2="412" y1="148" y2="148" stroke="#e0dac9"/>
+<text x="28" y="180" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#17160f">2,300</text><text x="28" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#635e4d">NSE stocks</text><text x="120" y="180" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#17160f">10 yrs</text><text x="120" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#635e4d">point-in-time</text><text x="232" y="180" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" font-weight="700" fill="#17160f">11% vs 22%</text><text x="232" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" fill="#635e4d">CAGR, pattern/random</text>
+</svg>

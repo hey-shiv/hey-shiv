@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" width="900" height="96">
+<style>.r{animation:r 2s ease-out infinite;transform-origin:40px 48px}@keyframes r{from{transform:scale(1);opacity:.7}to{transform:scale(3);opacity:0}}</style>
+<rect x=".5" y=".5" width="899" height="95" rx="12" fill="#111318" stroke="#22252a"/>
+<circle class="r" cx="40" cy="48" r="5" fill="#d7ff3f"/><circle cx="40" cy="48" r="5" fill="#d7ff3f"/>
+<text x="64" y="40" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.2" fill="#aeb3ba">CURRENTLY WORKING ON · JUST STARTED</text>
+<text x="64" y="66" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#eef0f2"><tspan font-weight="700">The First Song</tspan><tspan fill="#aeb3ba">  —  RL agents learning to communicate through sound</tspan></text>
+</svg>
