@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 44" width="120" height="44">
+<rect x=".75" y=".75" width="118.9" height="42.5" rx="21.0" fill="#ff7a45" stroke="#ff7a45" stroke-width="1.5"/>
+<g transform="translate(18 13) scale(.75)"><circle cx="12" cy="12" r="9" fill="none" stroke="#0f0b0a" stroke-width="1.8"/><ellipse cx="12" cy="12" rx="4" ry="9" fill="none" stroke="#0f0b0a" stroke-width="1.6"/><path d="M3 12h18" stroke="#0f0b0a" stroke-width="1.6"/></g>
+<text x="44" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="600" fill="#0f0b0a">site</text>
+<path d="M94.4 26.0 l7 -7 m-5 0 h5 v5" fill="none" stroke="#0f0b0a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>

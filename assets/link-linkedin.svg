@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 157 44" width="157" height="44">
+<rect x=".75" y=".75" width="155.3" height="42.5" rx="21.0" fill="#0f0b0a" stroke="#3a2c26" stroke-width="1.5"/>
+<g transform="translate(18 13) scale(.75)"><path fill="#ff7a45" d="M4.98 3.5C4.98 4.88 3.87 6 2.5 6S.02 4.88.02 3.5 1.13 1 2.5 1s2.48 1.12 2.48 2.5zM.4 8h4.2v14H.4V8zm7.2 0h4v1.9h.06c.56-1.06 1.93-2.18 3.97-2.18 4.25 0 5.03 2.8 5.03 6.43V22h-4.2v-6.93c0-1.65-.03-3.78-2.3-3.78-2.3 0-2.66 1.8-2.66 3.66V22H7.6V8z"/></g>
+<text x="44" y="27" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" font-weight="500" fill="#f6eee9">linkedin</text>
+<path d="M130.8 26.0 l7 -7 m-5 0 h5 v5" fill="none" stroke="#ff7a45" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>

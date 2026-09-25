@@ -2,11 +2,7 @@
 
 <a href="https://hey-shiv.github.io"><img src="assets/hero.svg" alt="Shivashant Manohar — data analysis, machine learning, evaluation. Final-year CS (AI & ML) at VIT-AP, open to data and AI/ML internships." width="100%"></a>
 
-<a href="https://hey-shiv.github.io"><kbd>&nbsp;site&nbsp;↗&nbsp;</kbd></a>&nbsp;
-<a href="https://linkedin.com/in/shivashant"><kbd>&nbsp;linkedin&nbsp;↗&nbsp;</kbd></a>&nbsp;
-<a href="https://x.com/hey_shivv"><kbd>&nbsp;x&nbsp;↗&nbsp;</kbd></a>&nbsp;
-<a href="https://medium.com/@shivashant.personal"><kbd>&nbsp;medium&nbsp;↗&nbsp;</kbd></a>&nbsp;
-<a href="mailto:shivashant.work@gmail.com"><kbd>&nbsp;email&nbsp;↗&nbsp;</kbd></a>
+<a href="https://hey-shiv.github.io"><img src="assets/link-site.svg" alt="Personal site" height="44"></a>&nbsp;<a href="https://linkedin.com/in/shivashant"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="44"></a>&nbsp;<a href="https://x.com/hey_shivv"><img src="assets/link-x.svg" alt="X" height="44"></a>&nbsp;<a href="https://medium.com/@shivashant.personal"><img src="assets/link-medium.svg" alt="Medium" height="44"></a>&nbsp;<a href="mailto:shivashant.work@gmail.com"><img src="assets/link-email.svg" alt="Email" height="44"></a>
 
 <a href="https://hey-shiv.github.io"><img src="assets/now.svg" alt="Currently working on: The First Song — reinforcement-learning agents learning to communicate through sound. Just started." width="100%"></a>
 
