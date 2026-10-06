@@ -8,7 +8,7 @@
 
 <a href="https://hey-shiv.github.io/projects/cover-song-retrieval/"><img src="assets/cover.svg" alt="Cover Song Retrieval — two-stage retrieval over 13,000 benchmark queries; gap to the best system went from 4.5× in run 1 to 1.11× in run 4. Still below published systems." width="100%"></a>
 
-<a href="https://hey-shiv.github.io/projects/vcp-screener/"><img src="assets/coil.svg" alt="Coil — VCP screener over 2,300 NSE stocks; ten-year point-in-time backtest found no edge: 11.0% CAGR for the pattern vs 22.3% for random entries." width="100%"></a>
+<a href="https://hey-shiv.github.io/projects/vcp-screener/"><img src="assets/coil.svg" alt="Coil — the tool I built to filter NSE stocks for my swing trades: scans all 2,300 every night, pre-runs every screen at 4 AM and lays out a trade plan for each pick. Animated chart of a volatility contraction breaking out above its pivot." width="100%"></a>
 
 <a href="https://github.com/hey-shiv/mini-modern-llm"><img src="assets/llm.svg" alt="Modern Mini LLM — small transformer on TinyStories with RMSNorm, grouped-query attention, RoPE, SwiGLU and its own BPE tokenizer." width="49%"></a>&nbsp;<a href="https://github.com/hey-shiv/Audio-Explorer"><img src="assets/audio.svg" alt="Audio Explorer — waveform, STFT, Mel spectrograms, MFCCs and beat tracking in one app." width="49%"></a>
 
