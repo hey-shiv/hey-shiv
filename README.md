@@ -10,6 +10,8 @@
 
 <a href="https://hey-shiv.github.io/projects/vcp-screener/"><img src="assets/coil.svg" alt="Coil — the tool I built to filter NSE stocks for my swing trades: scans all 2,300 every night, pre-runs every screen at 4 AM and lays out a trade plan for each pick. Animated chart of a volatility contraction breaking out above its pivot." width="100%"></a>
 
+<a href="https://github.com/hey-shiv/AgentAlign-Lab"><img src="assets/agentalign.svg" alt="AgentAlign — a 1.5B coding agent fine-tuned on its own verifier-checked attempts: pass rate on unseen tasks 7.1% to 11.3% (+4.2 points, 95% CI +1.2 to +7.7), runs with an unsafe command 41% to 27%." width="100%"></a>
+
 <a href="https://github.com/hey-shiv/mini-modern-llm"><img src="assets/llm.svg" alt="Modern Mini LLM — small transformer on TinyStories with RMSNorm, grouped-query attention, RoPE, SwiGLU and its own BPE tokenizer." width="49%"></a>&nbsp;<a href="https://github.com/hey-shiv/Audio-Explorer"><img src="assets/audio.svg" alt="Audio Explorer — waveform, STFT, Mel spectrograms, MFCCs and beat tracking in one app." width="49%"></a>
 
 <a href="https://hey-shiv.github.io"><img src="assets/stack.svg" alt="Stack: Python, SQL, C++, pandas, NumPy, PyTorch, scikit-learn, librosa, FastAPI, Streamlit, Git, Linux" width="100%"></a>
