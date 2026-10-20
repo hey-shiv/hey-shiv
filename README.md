@@ -4,7 +4,7 @@
 
 <a href="https://hey-shiv.github.io"><img src="assets/link-site.svg" alt="Personal site" height="44"></a>&nbsp;<a href="https://linkedin.com/in/shivashant"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="44"></a>&nbsp;<a href="https://x.com/hey_shivv"><img src="assets/link-x.svg" alt="X" height="44"></a>&nbsp;<a href="https://medium.com/@shivashant.personal"><img src="assets/link-medium.svg" alt="Medium" height="44"></a>&nbsp;<a href="mailto:shivashant.work@gmail.com"><img src="assets/link-email.svg" alt="Email" height="44"></a>
 
-<a href="https://hey-shiv.github.io"><img src="assets/now.svg" alt="Currently working on: The First Song — reinforcement-learning agents learning to communicate through sound. Just started." width="100%"></a>
+<a href="https://hey-shiv.github.io/projects/nodus/"><img src="assets/now.svg" alt="Currently working on: NODUS — learn from mistakes you never made. A knowledge graph that warns when a plan takes the shape of a past failure. Live." width="100%"></a>
 
 <a href="https://hey-shiv.github.io/projects/cover-song-retrieval/"><img src="assets/cover.svg" alt="Cover Song Retrieval — two-stage retrieval over 13,000 benchmark queries; gap to the best system went from 4.5× in run 1 to 1.11× in run 4. Still below published systems." width="100%"></a>
 
