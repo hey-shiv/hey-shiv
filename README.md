@@ -12,7 +12,7 @@
 
 <a href="https://github.com/hey-shiv/AgentAlign-Lab"><img src="assets/agentalign.svg" alt="AgentAlign — verifier-guided fine-tuning of a 1.5B terminal coding agent, no human raters, on its own verifier-checked attempts: pass rate on unseen tasks 7.1% to 11.3% (+4.2 points, 95% CI +1.2 to +7.7), runs with an unsafe command 41% to 27%." width="100%"></a>
 
-<a href="https://github.com/hey-shiv/mini-modern-llm"><img src="assets/llm.svg" alt="Modern Mini LLM — small transformer on TinyStories with RMSNorm, grouped-query attention, RoPE, SwiGLU and its own BPE tokenizer." width="49%"></a>&nbsp;<a href="https://github.com/hey-shiv/Audio-Explorer"><img src="assets/audio.svg" alt="Audio Explorer — waveform, STFT, Mel spectrograms, MFCCs and beat tracking in one app." width="49%"></a>
+<a href="https://unpack-phi.vercel.app"><img src="assets/unpack.svg" alt="Unpack — a PDF reader with a private tutor beside the page. Native macOS app that runs locally through Ollama; answers mark which sentences came from the document and which from the model. Pipeline: route the question, retrieve pages, generate the answer, verify citations. Nothing leaves your Mac." width="49%"></a>&nbsp;<a href="https://github.com/hey-shiv/Audio-Explorer"><img src="assets/audio.svg" alt="Audio Explorer — waveform, STFT, Mel spectrograms, MFCCs and beat tracking in one app." width="49%"></a>
 
 <a href="https://hey-shiv.github.io"><img src="assets/stack.svg" alt="Stack: Python, TypeScript, Go, SQL, PyTorch, Transformers, PEFT, QLoRA, DPO, RAG, FastAPI, Docker, Git, Linux" width="100%"></a>
 
