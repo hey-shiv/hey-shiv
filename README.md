@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://hey-shiv.github.io"><img src="assets/hero.svg" alt="Shivashant Manohar — LLM fine-tuning, retrieval, evaluation. Final-year CS (AI & ML) at VIT-AP, CGPA 8.05, open to AI/ML internships." width="100%"></a>
+<a href="https://hey-shiv.github.io"><img src="assets/hero.svg" alt="Shivashant Manohar — LLM fine-tuning, retrieval, evaluation. Final-year CS (AI & ML) at VIT-AP, CGPA 8.05, AI/ML engineer and open-source contributor." width="100%"></a>
 
 <a href="https://hey-shiv.github.io"><img src="assets/link-site.svg" alt="Personal site" height="44"></a>&nbsp;<a href="https://linkedin.com/in/shivashant"><img src="assets/link-linkedin.svg" alt="LinkedIn" height="44"></a>&nbsp;<a href="https://x.com/hey_shivv"><img src="assets/link-x.svg" alt="X" height="44"></a>&nbsp;<a href="https://medium.com/@shivashant.personal"><img src="assets/link-medium.svg" alt="Medium" height="44"></a>&nbsp;<a href="mailto:shivashant.work@gmail.com"><img src="assets/link-email.svg" alt="Email" height="44"></a>
 
